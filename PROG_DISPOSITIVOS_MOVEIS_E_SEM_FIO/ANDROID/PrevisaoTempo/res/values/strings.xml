@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PrevisaoTempo</string>
+    <string name="action_settings">Settings</string>
+    <string name="textoTemperatura">Temperatura atual:</string>
+    <string name="temperatura">-</string>
+    <string name="cidade">-</string>
+    
+</resources>
